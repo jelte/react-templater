@@ -1,0 +1,22 @@
+{
+    "name": "react-templater",
+    "version": "0.0.0",
+    "authors": [
+        "Jelte Steijaert <jelte@khepri.be>"
+    ],
+    "license": "MIT",
+    "private": false,
+    "main": [
+        "react-templater.js"
+    ],
+    "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests"
+    ],
+    "dependencies": {
+        "react": "~0.11.0"
+    }
+}
